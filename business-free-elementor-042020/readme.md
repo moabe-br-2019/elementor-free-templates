@@ -4,7 +4,7 @@ After installing your wordpress, goes to plugins and install [Elementor Page Bui
 
 ### To import your template
 
-1. Go to "Elementor  > My Librart" and click on "Import Template" button
+1. Go to "Elementor  > My Library" and click on "Import Template" button
 2. Choose your imported file than click on open
 
 ### Terms and Condition
